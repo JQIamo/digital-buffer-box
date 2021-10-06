@@ -1,0 +1,10 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U3";"SOIC-24W_7.5x15.4mm_P1.27mm";1;"SN64BCT25244";;;
+2;"U2,U1";"SOIC-16W_7.5x10.3mm_P1.27mm";2;"ADUM140D0BRZ";;;
+3;"C4,C6,C5,C3";"C_0805_2012Metric";4;"0.1uF";;;
+4;"C8,C7";"C_0805_2012Metric";2;"0.47uF";;;
+5;"J10";"IDC-Header_2x08_P2.54mm_Vertical";1;"Conn_02x08_Odd_Even";;;
+6;"R9,R8,R7,R6,R5,R4,R3,R2";"R_0805_2012Metric";8;"25";;;
+7;"C1,C2";"C_1210_3225Metric";2;"10uF";;;
+8;"J9,J8";"Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical";2;"Conn_01x02";;;
+9;"J7,J6,J5,J4,J3,J2,J1,J0";"BNC_Amphenol_B6252HB-NPP3G-50_Horizontal";8;"Conn_Coaxial_Power";;;
