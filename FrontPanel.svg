@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="482.60001mm"
+   height="90mm"
+   viewBox="0 0 482.6 90"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="FrontPanel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     height="90mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-others="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="574.1707"
+     inkscape:cy="568.51385"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="461.26797,37.347917"
+       orientation="1,0"
+       id="guide6604" />
+    <sodipodi:guide
+       position="-47.520522,50.000001"
+       orientation="0,1"
+       id="guide6630"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-45.462546,20"
+       orientation="0,1"
+       id="guide6798"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="21.304722,25.781815"
+       orientation="1,0"
+       id="guide6800" />
+    <sodipodi:guide
+       position="451.84219,51.759441"
+       orientation="1,0"
+       id="guide6802" />
+    <sodipodi:guide
+       position="56.874955,60.000001"
+       orientation="0,1"
+       id="guide49145"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="8.0448128,30"
+       orientation="0,1"
+       id="guide49147"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path1148"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 39.564916,34.437206 c 2.04358,1.001906 3.450547,3.102782 3.450547,5.532272 0,3.400831 -2.756919,6.15775 -6.15775,6.15775 -3.400831,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.406806,-4.530126 3.450197,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 64.976808,34.437206 c 2.04358,1.001906 3.450547,3.102782 3.450547,5.532272 0,3.400831 -2.756919,6.15775 -6.15775,6.15775 -3.400831,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.406806,-4.530126 3.450197,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 90.376808,34.437206 c 2.04358,1.001906 3.450547,3.102782 3.450547,5.532272 0,3.400831 -2.756919,6.15775 -6.15775,6.15775 -3.400831,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.406806,-4.530126 3.450197,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-5"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 115.77682,34.437034 c 2.04358,1.001906 3.45054,3.102782 3.45054,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-4"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 141.17681,34.437206 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-5"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 166.57681,34.437206 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-2"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 191.97681,34.437206 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-5-2"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 217.37682,34.437034 c 2.04358,1.001906 3.45054,3.102782 3.45054,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-5"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 270.54406,34.437206 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40084,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.4068,-4.530126 3.45019,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-8"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 295.94406,34.437206 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40084,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.4068,-4.530126 3.45019,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-57"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 321.34406,34.437206 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40084,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.4068,-4.530126 3.45019,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-5-4"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 346.74407,34.437034 c 2.04358,1.001906 3.45054,3.102782 3.45054,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-4-6"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 372.14406,34.437206 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-5-5"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 397.54406,34.437206 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-2-0"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 422.94406,34.437206 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-5-2-9"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 448.34407,34.437034 c 2.04358,1.001906 3.45054,3.102782 3.45054,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-3"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 39.581828,64.373026 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40084,0 -6.15776,-2.756919 -6.15776,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-3"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 64.981828,64.373026 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40084,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.4068,-4.530126 3.45019,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-24"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 90.381826,64.373026 c 2.04358,1.001906 3.450547,3.102782 3.450547,5.532272 0,3.400831 -2.756919,6.15775 -6.15775,6.15775 -3.400831,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.406806,-4.530126 3.450197,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-5-9"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 115.78184,64.372854 c 2.04358,1.001906 3.45054,3.102782 3.45054,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-4-7"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 141.18183,64.373026 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-5-8"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 166.58183,64.373026 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-2-00"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 191.98183,64.373026 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-5-2-4"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 217.38184,64.372854 c 2.04358,1.001906 3.45054,3.102782 3.45054,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-5-7"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 270.54908,64.373026 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40084,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.4068,-4.530126 3.45019,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-8-8"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 295.94908,64.373026 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40084,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.4068,-4.530126 3.45019,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-57-4"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 321.34908,64.373026 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40084,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.4068,-4.530126 3.45019,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-5-4-2"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 346.74909,64.372854 c 2.04358,1.001906 3.45054,3.102782 3.45054,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-4-6-4"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 372.14908,64.373026 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-5-5-3"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 397.54908,64.373026 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-2-0-3"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 422.94908,64.373026 c 2.04358,1.001906 3.45055,3.102782 3.45055,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="path1148-8-1-5-2-9-2"
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       d="m 448.34909,64.372854 c 2.04358,1.001906 3.45054,3.102782 3.45054,5.532272 0,3.400831 -2.75692,6.15775 -6.15775,6.15775 -3.40083,0 -6.15775,-2.756919 -6.15775,-6.15775 0,-2.429352 1.40681,-4.530126 3.4502,-5.5321 z"
+       sodipodi:nodetypes="cssscc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.198727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect87071"
+       width="482.63956"
+       height="89.703835"
+       x="0.046645697"
+       y="0.14290787" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Boundary" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="20.958742"
+       y="13.991528"
+       id="text10595"><tspan
+         sodipodi:role="line"
+         id="tspan10593"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="20.958742"
+         y="13.991528">Digital Buffer Box</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.355722"
+       y="29.912533"
+       id="text27267"><tspan
+         sodipodi:role="line"
+         id="tspan27265"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="31.355722"
+         y="29.912533">CH1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="56.65427"
+       y="29.917542"
+       id="text27267-1"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="56.65427"
+         y="29.917542">CH2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.101295"
+       y="29.917542"
+       id="text27267-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="82.101295"
+         y="29.917542">CH3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="107.42896"
+       y="29.858711"
+       id="text27267-1-3"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="107.42896"
+         y="29.858711">CH4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="132.89287"
+       y="29.87077"
+       id="text27267-1-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="132.89287"
+         y="29.87077">CH5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="158.25668"
+       y="29.87077"
+       id="text27267-1-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="158.25668"
+         y="29.87077">CH6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="183.69165"
+       y="29.870773"
+       id="text27267-1-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="183.69165"
+         y="29.870773">CH7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="209.05066"
+       y="29.87077"
+       id="text27267-1-3-25"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-35"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="209.05066"
+         y="29.87077">CH8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.541046"
+       y="59.931824"
+       id="text27267-5"><tspan
+         sodipodi:role="line"
+         id="tspan27265-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="29.541046"
+         y="59.931824">CH17</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="54.900055"
+       y="59.936836"
+       id="text27267-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="54.900055"
+         y="59.936836">CH18</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="80.342255"
+       y="59.936836"
+       id="text27267-1-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-5-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="80.342255"
+         y="59.936836">CH19</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="105.71573"
+       y="59.878006"
+       id="text27267-1-3-24"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="105.71573"
+         y="59.878006">CH20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="131.21703"
+       y="59.89006"
+       id="text27267-1-3-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-6-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="131.21703"
+         y="59.89006">CH21</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="156.50368"
+       y="59.89006"
+       id="text27267-1-3-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-7-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="156.50368"
+         y="59.89006">CH22</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="181.9507"
+       y="59.890068"
+       id="text27267-1-3-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="181.9507"
+         y="59.890068">CH23</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="207.27835"
+       y="59.89006"
+       id="text27267-1-3-25-3"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-35-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="207.27835"
+         y="59.89006">CH24</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="262.36096"
+       y="29.838152"
+       id="text27267-2"><tspan
+         sodipodi:role="line"
+         id="tspan27265-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="262.36096"
+         y="29.838152">CH9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="285.87796"
+       y="29.843161"
+       id="text27267-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="285.87796"
+         y="29.843161">CH10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="311.37924"
+       y="29.843161"
+       id="text27267-1-4-6"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-5-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="311.37924"
+         y="29.843161">CH11</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="336.66589"
+       y="29.78433"
+       id="text27267-1-3-74"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-75"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="336.66589"
+         y="29.78433">CH12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="362.11292"
+       y="29.796389"
+       id="text27267-1-3-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="362.11292"
+         y="29.796389">CH13</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="387.44058"
+       y="29.796389"
+       id="text27267-1-3-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-7-49"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="387.44058"
+         y="29.796389">CH14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="412.90448"
+       y="29.796392"
+       id="text27267-1-3-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="412.90448"
+         y="29.796392">CH15</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="438.26831"
+       y="29.796389"
+       id="text27267-1-3-25-6"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-35-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="438.26831"
+         y="29.796389">CH16</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="260.50952"
+       y="59.857445"
+       id="text27267-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan27265-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="260.50952"
+         y="59.857445">CH25</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="285.87332"
+       y="59.862457"
+       id="text27267-1-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-8-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="285.87332"
+         y="59.862457">CH26</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="311.30832"
+       y="59.862457"
+       id="text27267-1-4-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-5-8-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="311.30832"
+         y="59.862457">CH27</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="336.6673"
+       y="59.803627"
+       id="text27267-1-3-24-8"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-4-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="336.6673"
+         y="59.803627">CH28</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="362.1095"
+       y="59.815681"
+       id="text27267-1-3-0-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-6-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="362.1095"
+         y="59.815681">CH29</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="387.48297"
+       y="59.815681"
+       id="text27267-1-3-2-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-7-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="387.48297"
+         y="59.815681">CH30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="412.98428"
+       y="59.815689"
+       id="text27267-1-3-7-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-3-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="412.98428"
+         y="59.815689">CH31</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="438.27094"
+       y="59.815681"
+       id="text27267-1-3-25-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan27265-1-9-35-5-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="438.27094"
+         y="59.815681">CH32</tspan></text>
+  </g>
+</svg>
